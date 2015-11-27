@@ -1,3 +1,3 @@
 # Enigma2
-Für PVR SAT Reciver
+IP Symcon Module PVR SAT Reciver
 - Xtrend ET 5000
